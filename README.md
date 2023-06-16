@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I will be sure to update this as I continue my education at BloomTech.
 <!--
 **taylersala/taylersala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
