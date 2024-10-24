@@ -1,5 +1,11 @@
-### Hi there 👋
-I will be sure to update this as I continue my education at BloomTech.
+Hi there 👋
+I'm currently a student at Bloomtech, aiming to complete my course by December. I have been building foundational knowledge in JavaScript, React.js, Redux, Node.js, Express, SQL, Docker, and more, with a primary focus on JavaScript and React.
+
+Alongside coding, I’m developing skills in Agile Project Management, debugging, and software architecture, while also working with tools like Adobe Illustrator and Photoshop.
+
+Currently, I'm working on my labs for school and developing a fashion-focused application that allows users to upload clothes and build outfits. This app is designed for fashion enthusiasts who want a more organized way to style outfits without the hassle of sorting through their closets. I plan to complete the project by March and showcase it in my portfolio.
+
+Over the next few months, I plan to earn additional certifications and complete the Odin Project to further strengthen my skills. I'm always open to new learning opportunities and any recommendations for courses, projects, or certifications!  
 <!--
 **taylersala/taylersala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
