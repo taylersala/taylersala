@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm currently a student at Bloomtech, aiming to complete my course by December. I’ve been building a strong foundation in JavaScript, React.js, Redux, Node.js, Express, SQL, and more, with my primary focus on JavaScript and React.
 
-Alongside coding, I’m developing skills in Agile Project Management, debugging, and software architecture, while also gaining experience with tools like Adobe Illustrator and Photoshop.
+Alongside coding, I’m developing skills in Agile Project Management, debugging, and software architecture, while also strengthening my design skills with tools like Adobe Illustrator and Photoshop.
 
 Currently, I’m working on my school labs and developing a fashion-focused application that allows users to upload clothes and build outfits. This app is designed for fashion enthusiasts who want an organized way to style outfits without the hassle of sorting through their closets. I plan to complete the project by March and feature it in my portfolio.
 
