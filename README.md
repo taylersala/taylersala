@@ -1,4 +1,5 @@
 Hi there 👋
+
 I'm currently a student at Bloomtech, aiming to complete my course by December. I’ve been building a strong foundation in JavaScript, React.js, Redux, Node.js, Express, SQL, and more, with my primary focus on JavaScript and React.
 
 Alongside coding, I’m developing skills in Agile Project Management, debugging, and software architecture, while also gaining experience with tools like Adobe Illustrator and Photoshop.
