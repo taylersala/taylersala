@@ -1,4 +1,4 @@
-##Hi there 👋
+# Hi there 👋
 
 I'm currently a student at Bloomtech, aiming to complete my course by December. I’ve been building a strong foundation in JavaScript, React.js, Redux, Node.js, Express, SQL, and more, with my primary focus on JavaScript and React.
 
@@ -12,7 +12,7 @@ While I’m hyper-focused on wrapping up my time at BloomTech, over the next few
 
 In addition, I’m working toward earning new certifications and completing the Odin Project to further strengthen my skills. I’m always open to learning opportunities, so feel free to share any recommendations for courses, projects, or certifications!
 
-#Reach Me
+## Reach Me
 
 Feel free to reach out to me at <taylersala@gmail.com>. You can also check out my resume [here]() for more details on my experience and skills. I’d be happy to connect on [LinkedIn](https://www.linkedin.com/in/tayler-sala-64463a162/) as well!
 <!--
