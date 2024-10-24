@@ -13,7 +13,7 @@ While I’m hyper-focused on wrapping up my time at BloomTech, over the next few
 In addition, I’m working toward earning new certifications and completing the Odin Project to further strengthen my skills. I’m always open to learning opportunities, so feel free to share any recommendations for courses, projects, or certifications!
 
 Reach Me
-Feel free to reach out to me at <taylersala@gmail.com>. You can also check out my resume [resume]() for more details on my experience and skills. I’d be happy to connect on [LinkedIn](https://www.linkedin.com/in/tayler-sala-64463a162/) as well!
+Feel free to reach out to me at <taylersala@gmail.com>. You can also check out my resume [here]() for more details on my experience and skills. I’d be happy to connect on [LinkedIn](https://www.linkedin.com/in/tayler-sala-64463a162/) as well!
 <!--
 **taylersala/taylersala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
