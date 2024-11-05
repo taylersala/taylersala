@@ -6,7 +6,7 @@ Alongside coding, I’m developing skills in Agile Project Management, debugging
 
 Currently, I’m working on my school labs and developing a fashion-focused application that allows users to upload clothes and build outfits. This app is designed for fashion enthusiasts who want an organized way to style outfits without the hassle of sorting through their closets. I plan to complete the project by March and feature it in my portfolio.
 
-I’m passionate about e-commerce and love using code to elevate businesses. My background in graphic design enhances my development skills, enabling me to create visually appealing and highly functional user experiences. Merging my design expertise with my passion for coding is what excites me most about tech. This has fueled a strong interest in continuing  developing with React and exploring Three.js.
+I’m passionate about e-commerce and love using code to elevate businesses. My background in graphic design enhances my development skills, enabling me to create visually appealing and highly functional user experiences. Merging my design expertise with my passion for coding is what excites me most about tech. This has fueled a strong interest in continuing developing with React as well as exploring the capabilities of Three.js and React Three Fiber.
 
 While I’m hyper-focused on wrapping up my time at BloomTech, over the next few months, I also plan to dive into additional personal projects, which will be showcased in my pinned section as I complete them.
 
